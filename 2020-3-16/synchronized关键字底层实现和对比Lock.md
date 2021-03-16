@@ -117,8 +117,6 @@ java中每个对象都可作为锁，锁有四种级别，按照量级从轻到�
   当系统检查到锁是重量级锁之后，会把等待想要获得锁的线程进行阻塞，被阻塞的线程不会消耗cpu。但是阻塞或者唤醒一个线程时，都需要操作系统来帮忙，这就需要从用户态转换到内核态，而转换状态是需要消耗很多时间的。
   
 
-![https://upload-images.jianshu.io/upload_images/4491294-345a15342fad119a.png?imageMogr2/auto-orient/strip|imageView2/2/w/1186/format/webp]()
-
-![https://upload-images.jianshu.io/upload_images/4491294-e3bcefb2bacea224.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp]()
+![img](https://upload-images.jianshu.io/upload_images/4491294-345a15342fad119a.png?imageMogr2/auto-orient/strip|imageView2/2/w/1186/format/webp)![img](https://upload-images.jianshu.io/upload_images/4491294-e3bcefb2bacea224.png?imageMogr2/auto-orient/strip|imageView2/2/w/1200/format/webp)
 
 > https://blog.csdn.net/bingxuesiyang/article/details/89332989?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&dist_request_id=1328655.11204.16158827246358521&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control
