@@ -6,4 +6,4 @@
 ### 2020-03-16
 - [synchronized关键字底层实现,与Lock相比优缺点？](https://github.com/bluetmacc/By-Remember-Knowledge/blob/main/2020-3-16/synchronized关键字底层实现和对比Lock.md)
 ### 2020-03-17
-- [单例模式](https://github.com/bluetmacc/By-Remember-Knowledge/blob/main/2020-3-16/单例模式.md)
+- [单例模式](https://github.com/bluetmacc/By-Remember-Knowledge/blob/main/2020-3-17/单例模式.md)
