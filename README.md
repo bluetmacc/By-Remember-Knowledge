@@ -26,3 +26,6 @@
 ### 2020-0327--0405
 - [多线程总结面试题](https://github.com/bluetmacc/By-Remember-Knowledge/blob/main/2020-0327--0405/多线程总结.md)
 - [多线程总结xmind](https://github.com/bluetmacc/By-Remember-Knowledge/blob/main/2020-0327--0405/多线程.xmind)
+### 2020-0405--0412
+- [JVM总结面试题](https://github.com/bluetmacc/By-Remember-Knowledge/blob/main/2020-0405--0412/JVM总结.md)
+- [JVM总结xmind](https://github.com/bluetmacc/By-Remember-Knowledge/blob/main/2020-0405--0412/JVM.xmind)
